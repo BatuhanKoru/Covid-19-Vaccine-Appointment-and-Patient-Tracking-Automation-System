@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{10366C7B-DBD0-40BC-9ED2-3C5EB2D76DB3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HastaTakipOtomasyon</RootNamespace>
+    <AssemblyName>HastaTakipOtomasyon</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPanel.Designer.cs">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoktorIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoktorIslemleri.Designer.cs">
+      <DependentUpon>DoktorIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoktorPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoktorPanel.Designer.cs">
+      <DependentUpon>DoktorPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HastaEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HastaEkle.Designer.cs">
+      <DependentUpon>HastaEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hastaislemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hastaislemleri.Designer.cs">
+      <DependentUpon>Hastaislemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullanici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kullanici.Designer.cs">
+      <DependentUpon>kullanici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AdminPanel.resx">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoktorIslemleri.resx">
+      <DependentUpon>DoktorIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoktorPanel.resx">
+      <DependentUpon>DoktorPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HastaEkle.resx">
+      <DependentUpon>HastaEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hastaislemleri.resx">
+      <DependentUpon>Hastaislemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kullanici.resx">
+      <DependentUpon>kullanici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 </ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kullanıscı girişi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\900x408.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-computer-icons-login-user-download-login-button-5ac71d01b486e2.8882335315229985297394.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-login-computer-icons-iconfinder-website-login-key-icon-lock-locked-login-5ab05c9633fe41.621215531521507478213.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AdmimPanels.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\900x450.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doktor küçük.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pill .png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\küçük.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\50x18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrgwergerge.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add 64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list 64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEARCH 6X64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UPDATE 64X64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEARCH 6X641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doktor backimage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doktor be.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list 64x641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add 64x641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purple-gradient-background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue-gradient-background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JmAhqz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaper_blue-linear-gradient-1280x1024-c2-87cefa-e0ffff-a-150-f-14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add 64x642.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hasta ekle.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-computer-icons-exit-sign-emergency-exit-clip-art-exit-5ad7850f9048b8.270332421524073743591 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PRUPLE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add 64x643.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEARCH 6X642.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEARCH 6X643.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,105 @@
+C:\Users\Furkan\Desktop\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.exe.config
+C:\Users\Furkan\Desktop\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.exe
+C:\Users\Furkan\Desktop\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.pdb
+C:\Users\Furkan\Desktop\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Form1.resources
+C:\Users\Furkan\Desktop\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Properties.Resources.resources
+C:\Users\Furkan\Desktop\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.exe
+C:\Users\Furkan\Desktop\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.pdb
+C:\Users\Furkan\Desktop\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.AdminPanel.resources
+C:\Users\Furkan\Desktop\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.DoktorPanel.resources
+C:\Users\Furkan\Desktop\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.HastaEkle.resources
+C:\Users\Furkan\Desktop\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Hastaislemleri.resources
+C:\Users\Furkan\Desktop\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.DoktorIslemleri.resources
+C:\Users\Furkan\Desktop\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.kullanici.resources
+C:\Users\Furkan\Desktop\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.odeme.resources
+C:\Users\Furkan\Desktop\Yeni klasör\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.exe.config
+C:\Users\Furkan\Desktop\Yeni klasör\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.exe
+C:\Users\Furkan\Desktop\Yeni klasör\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.exe
+C:\Users\Furkan\Desktop\Yeni klasör\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\Yeni klasör\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.AdminPanel.resources
+C:\Users\Furkan\Desktop\Yeni klasör\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.DoktorIslemleri.resources
+C:\Users\Furkan\Desktop\Yeni klasör\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.DoktorPanel.resources
+C:\Users\Furkan\Desktop\Yeni klasör\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Form1.resources
+C:\Users\Furkan\Desktop\Yeni klasör\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.HastaEkle.resources
+C:\Users\Furkan\Desktop\Yeni klasör\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Hastaislemleri.resources
+C:\Users\Furkan\Desktop\Yeni klasör\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.kullanici.resources
+C:\Users\Furkan\Desktop\Yeni klasör\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.odeme.resources
+C:\Users\Furkan\Desktop\Yeni klasör\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Properties.Resources.resources
+C:\Users\Furkan\Desktop\Yeni klasör\HastaTakipOotomasyon\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.exe.config
+C:\Users\Furkan\Desktop\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.exe
+C:\Users\Furkan\Desktop\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.pdb
+C:\Users\Furkan\Desktop\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.exe
+C:\Users\Furkan\Desktop\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.pdb
+C:\Users\Furkan\Desktop\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.AdminPanel.resources
+C:\Users\Furkan\Desktop\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.DoktorIslemleri.resources
+C:\Users\Furkan\Desktop\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.DoktorPanel.resources
+C:\Users\Furkan\Desktop\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Form1.resources
+C:\Users\Furkan\Desktop\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.HastaEkle.resources
+C:\Users\Furkan\Desktop\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Hastaislemleri.resources
+C:\Users\Furkan\Desktop\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.kullanici.resources
+C:\Users\Furkan\Desktop\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.odeme.resources
+C:\Users\Furkan\Desktop\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Properties.Resources.resources
+C:\Users\Furkan\Desktop\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\İleri Programlama Dönem Sonu Projesi\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.exe.config
+C:\Users\Furkan\Desktop\İleri Programlama Dönem Sonu Projesi\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.exe
+C:\Users\Furkan\Desktop\İleri Programlama Dönem Sonu Projesi\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.pdb
+C:\Users\Furkan\Desktop\ÖDEVLER\İleri Programlama\Dönem Sonu Projesi\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.exe.config
+C:\Users\Furkan\Desktop\ÖDEVLER\İleri Programlama\Dönem Sonu Projesi\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.exe
+C:\Users\Furkan\Desktop\ÖDEVLER\İleri Programlama\Dönem Sonu Projesi\furkanyilmaz181205008\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.pdb
+C:\Users\MONSTER\Desktop\FAZLALIKLAR\furkanyilmazhastatakip\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.exe.config
+C:\Users\MONSTER\Desktop\FAZLALIKLAR\furkanyilmazhastatakip\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.exe
+C:\Users\MONSTER\Desktop\FAZLALIKLAR\furkanyilmazhastatakip\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.pdb
+C:\Users\MONSTER\Desktop\FAZLALIKLAR\furkanyilmazhastatakip\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\FAZLALIKLAR\furkanyilmazhastatakip\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.AdminPanel.resources
+C:\Users\MONSTER\Desktop\FAZLALIKLAR\furkanyilmazhastatakip\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.DoktorIslemleri.resources
+C:\Users\MONSTER\Desktop\FAZLALIKLAR\furkanyilmazhastatakip\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.DoktorPanel.resources
+C:\Users\MONSTER\Desktop\FAZLALIKLAR\furkanyilmazhastatakip\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Form1.resources
+C:\Users\MONSTER\Desktop\FAZLALIKLAR\furkanyilmazhastatakip\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.HastaEkle.resources
+C:\Users\MONSTER\Desktop\FAZLALIKLAR\furkanyilmazhastatakip\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Hastaislemleri.resources
+C:\Users\MONSTER\Desktop\FAZLALIKLAR\furkanyilmazhastatakip\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.kullanici.resources
+C:\Users\MONSTER\Desktop\FAZLALIKLAR\furkanyilmazhastatakip\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.odeme.resources
+C:\Users\MONSTER\Desktop\FAZLALIKLAR\furkanyilmazhastatakip\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\FAZLALIKLAR\furkanyilmazhastatakip\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\FAZLALIKLAR\furkanyilmazhastatakip\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\FAZLALIKLAR\furkanyilmazhastatakip\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.exe
+C:\Users\MONSTER\Desktop\FAZLALIKLAR\furkanyilmazhastatakip\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.pdb
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.exe.config
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.exe
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.pdb
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.AdminPanel.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.DoktorIslemleri.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.DoktorPanel.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Form1.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.HastaEkle.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Hastaislemleri.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.kullanici.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.odeme.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.exe
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.pdb
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.exe.config
+C:\Users\ASUS\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.exe
+C:\Users\ASUS\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Debug\HastaTakipOtomasyon.pdb
+C:\Users\ASUS\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.AdminPanel.resources
+C:\Users\ASUS\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.DoktorIslemleri.resources
+C:\Users\ASUS\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.DoktorPanel.resources
+C:\Users\ASUS\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Form1.resources
+C:\Users\ASUS\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.HastaEkle.resources
+C:\Users\ASUS\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Hastaislemleri.resources
+C:\Users\ASUS\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.kullanici.resources
+C:\Users\ASUS\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Properties.Resources.resources
+C:\Users\ASUS\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.exe
+C:\Users\ASUS\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.pdb
+C:\Users\ASUS\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Debug\HastaTakipOtomasyon.Form2.resources

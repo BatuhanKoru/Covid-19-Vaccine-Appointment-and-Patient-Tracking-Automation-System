@@ -1,0 +1,17 @@
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Release\HastaTakipOtomasyon.exe.config
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Release\HastaTakipOtomasyon.exe
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\bin\Release\HastaTakipOtomasyon.pdb
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Release\HastaTakipOtomasyon.AdminPanel.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Release\HastaTakipOtomasyon.DoktorIslemleri.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Release\HastaTakipOtomasyon.DoktorPanel.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Release\HastaTakipOtomasyon.Form1.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Release\HastaTakipOtomasyon.HastaEkle.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Release\HastaTakipOtomasyon.Hastaislemleri.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Release\HastaTakipOtomasyon.kullanici.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Release\HastaTakipOtomasyon.odeme.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Release\HastaTakipOtomasyon.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Release\HastaTakipOtomasyon.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Release\HastaTakipOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Release\HastaTakipOtomasyon.exe
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Release\HastaTakipOtomasyon.pdb
+C:\Users\MONSTER\Desktop\HastaTakipOtomasyon\HastaTakipOtomasyon\obj\Release\HastaTakipOtomasyon.csproj.AssemblyReference.cache
